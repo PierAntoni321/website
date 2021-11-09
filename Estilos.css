@@ -1,0 +1,48 @@
+h1{
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    }
+header{
+    background: burlywood;
+    border: 1px solid black;
+}
+#hed{
+    background: cyan;
+}
+
+h3{
+    font-family: sans-serif;
+    background: cornflowerblue;
+}
+
+body,p{
+    border: 1px solid black;
+    background: rosybrown;
+}
+.agrupar {
+    margin: 14px auto
+}
+ img[src] {
+    width: 400px;
+    margin: auto;
+}
+.pelis{
+    width: 400px;
+    height: 500px;
+}
+.fotos{
+    width: 400px;
+    height: 300px;
+}
+.lugares{
+    width: 400px;
+    height: 400px;
+}
+table {
+    background: sandybrown;
+}
+ul{
+    background: slategrey;
+}
